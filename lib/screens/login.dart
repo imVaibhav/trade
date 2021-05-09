@@ -72,7 +72,7 @@ class _State extends State<LoginScreen> {
                       color: Colors.blue,
                       child: Text('Login'),
                       onPressed: () {
-                        // naviagate to home screen
+                        // Naviagate to home screen
                         Navigator.pushReplacementNamed(
                             context, HomeScreen.routeName);
                         // print(userNameController.text);

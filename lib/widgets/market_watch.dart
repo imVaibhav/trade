@@ -146,7 +146,7 @@ class _MarketWatchWidgetState extends State<MarketWatchWidget> {
                             action,
                             style: TextStyle(color: Colors.white),
                           ),
-                          color: const Color(0xFF1BC0C5),
+                          color: Colors.blue[400],
                         ),
                       ],
                     ),
